@@ -16,8 +16,8 @@ Welcome to my full-stack developer portfolio! This site showcases my projects, t
 
 ## 🚀 Live Site
 
-🔗 **Frontend (React Portfolio)**: [https://your-domain-name.com](https://rohitsinghgrover.com/Portfolio/)  
-🔗 **Backend API**: [https://your-backend-api.onrender.com](https://fullstackassignment1-ew61.onrender.com/)
+🔗  [**Frontend (React Portfolio)**](https://rohitsinghgrover.com/Portfolio/)  
+🔗 [**Backend API**](https://fullstackassignment1-ew61.onrender.com/)
 
 
 
