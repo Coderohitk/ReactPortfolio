@@ -1,0 +1,28 @@
+.hero-section {
+    background: linear-gradient(to right, #0f2027, #203a43, #2c5364);
+    padding-top: 100px; /* for fixed header */
+    padding-bottom: 60px;
+  }
+  
+  
+  .hero-img:hover {
+    transform: scale(1.05);
+    transition: transform 0.3s ease;
+  }
+  
+  /* Optional animation */
+  .hero-section .row {
+    animation: fadeInUp 0.8s ease-in-out;
+  }
+  
+  @keyframes fadeInUp {
+    from {
+      opacity: 0;
+      transform: translateY(20px);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+  
